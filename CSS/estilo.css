@@ -1,0 +1,36 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+#general
+{
+    margin: auto;
+    width: 600px;
+    height: 800px;
+    background-color: aqua;
+}
+#uno
+{
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    background-color:yellow;
+}
+#dos
+{   display: inline-block;
+    width: 200px;
+    height: 200px;
+    background-color:red;
+    
+}
+#uno1
+{   
+    width: 100px;
+    height: 100px;
+    background-color:rgb(105, 216, 20);
+    position: relative;
+    top: 50px;
+    left: 50px;
+    transform: rotate(45deg);
+}
